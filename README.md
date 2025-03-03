@@ -1,16 +1,8 @@
-<h1 align="center">Well, it’s me, Mahad – on a journey to master Android!</h1>
+<h1 align="left">Well, it’s me, Mahad – on a journey to master Android!</h1>
 
 ###
 
-<h4 align="left">Junior Android Developer | Kotlin, Java, C++, C | Hands-on with Jetpack Compose & Kotlin | Competitive Programmer | Founder of "The UBIT Hub" | BSSE @ UBIT '29</h4>
-
-###
-
-<h1 align="center">Brief Introduction About Me</h1>
-
-###
-
-<p align="left">I'm Mahad, an aspiring Android developer and BSSE student at UBIT (Batch 2025). My journey started with C and C++, building a strong problem-solving foundation before starting Android development with Kotlin & Jetpack Compose.<br><br>Currently, I'm exploring Android Architecture Components and Kotlin Multiplatform, while also expanding my skills in backend development with Spring Boot. My focus is on creating scalable, user-friendly apps that make a real impact.<br><br>Beyond coding, I founded "The UBIT Hub", a WhatsApp community connecting UBIT students for collaboration and learning. This initiative reflects my passion for leadership, knowledge-sharing, and fostering a developer community.<br><br>💡 Always open to collaborations, discussions, and building awesome Android apps!</p>
+<h3 align="left">Junior Android Developer | Kotlin, Java, C++, C | Hands-on with Jetpack Compose & Kotlin | Competitive Programmer | Founder of "The UBIT Hub" | BSSE @ UBIT '29</h3>
 
 ###
 
@@ -59,6 +51,14 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
+
+###
+
+<h1 align="left">Brief Introduction About Me</h1>
+
+###
+
+<p align="left">I'm Mahad, an aspiring Android developer and BSSE student at UBIT (Batch 2025). My journey started with C and C++, building a strong problem-solving foundation before starting Android development with Kotlin & Jetpack Compose.<br><br>Currently, I'm exploring Android Architecture Components and Kotlin Multiplatform, while also expanding my skills in backend development with Spring Boot. My focus is on creating scalable, user-friendly apps that make a real impact.<br><br>Beyond coding, I founded "The UBIT Hub", a WhatsApp community connecting UBIT students for collaboration and learning. This initiative reflects my passion for leadership, knowledge-sharing, and fostering a developer community.<br><br>💡 Always open to collaborations, discussions, and building awesome Android apps!</p>
 
 ###
 
