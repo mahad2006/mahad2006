@@ -2,7 +2,15 @@
 
 ###
 
-<h4 align="left">Junior Android Developer | Kotlin, Java, C++, C | Hands-on with Jetpack Compose & Kotlin | Competitive Programmer | Founder of "The UBIT Hub" | BSSE @ UBIT '29</h4>
+<h3 align="left">Junior Android Developer | Kotlin, Java, C++, C | Hands-on with Jetpack Compose & Kotlin | Competitive Programmer | Founder of "The UBIT Hub" | BSSE @ UBIT '29</h3>
+
+###
+
+<h1 align="left">Brief Introduction About Me</h1>
+
+###
+
+<p align="left">I'm Shaikh Mahad, a BSSE student at UBIT (Batch #2025), passionate about Android development. Currently learning native Android with Kotlin and Jetpack Compose, I have a strong grip on C++, DSA, and problem-solving.</p>
 
 ###
 
@@ -10,16 +18,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mahad2006&theme=dark_lover&column=-1&row=1&margin-w=14&margin-h=9&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahad2006&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h3 align="left">Tech Stack & Skills</h3>
+<h2 align="left">Languages, Tech Stack & Skills</h2>
 
 ###
 
@@ -45,7 +44,7 @@
 
 ###
 
-<h3 align="left">Find Me Here</h3>
+<h2 align="left">Find Me Here</h2>
 
 ###
 
@@ -60,6 +59,19 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mahad2006&theme=dark_lover&column=-1&row=1&margin-w=14&margin-h=9&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahad2006&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h1 align="center">🔍 Profile Visits</h1>
 
 ###
 
