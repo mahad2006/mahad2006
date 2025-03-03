@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Junior Android Developer | Kotlin, Java, C++, C | Hands-on with Jetpack Compose & Kotlin | Competitive Programmer | Founder of "The UBIT Hub" | BSSE @ UBIT '29</h3>
+<h3 align="center">Junior Android Developer | Kotlin, Java, C++, C | Hands-on with Jetpack Compose & Kotlin | Competitive Programmer | Founder of "The UBIT Hub" | BSSE @ UBIT '29</h3>
 
 ###
 
