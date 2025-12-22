@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=120&section=header" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=120&section=header&fontSize=0" width="100%" />
 
 <div align="center">
   <h1 style="font-size: 5rem; font-weight: bold; margin-bottom: 0;">SHAIKH MAHAD</h1>
@@ -150,8 +146,4 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=100&section=footer" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=100&section=footer&fontSize=0" width="100%" />
