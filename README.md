@@ -11,9 +11,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
     </picture>
   </a>
 </div>
@@ -68,8 +68,8 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
-      <br>Android
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
@@ -110,45 +110,10 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-green-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
     <img src="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
   </picture>
 </div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" />
-    <img alt="System Scanner" src="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=4b5563&icon_color=374151&hide_border=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" height="160" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-summary-card-output/solar/2-most-commit-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-summary-card-output/solar/2-most-commit-language.svg" />
-    <img src="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-summary-card-output/solar/2-most-commit-language.svg" alt="Solar System Stats" height="160" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://leetcode.com/u/mahad2006/">
-    <img src="https://leetcard.jacoblin.cool/mahad2006?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
-  </a>
-</div>
-
 <br/>
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
