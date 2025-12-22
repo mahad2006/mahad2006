@@ -1,86 +1,136 @@
-<h1 align="left">Well, it’s me, Mahad – on a journey to master Android!</h1>
-
-###
-
-<h3 align="left">Junior Android Developer | Kotlin, Java, C++, C | Hands-on with Jetpack Compose & Kotlin | Competitive Programmer | Founder of "The UBIT Hub" | BSSE @ UBIT '29</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake.svg" />
-</picture>
-
-###
-
-<h2 align="left">Languages, Tech Stack & Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-</div>
-
-###
-
-<h2 align="left">Find Me Here</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/codewithmahad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  <a href="codewithmahad@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<h1 align="left">Brief Introduction About Me</h1>
-
-###
-
-<p align="left">I'm Mahad, an aspiring Android developer and BSSE student at UBIT (Batch 2025). My journey started with C and C++, building a strong problem-solving foundation before starting Android development with Kotlin & Jetpack Compose.<br><br>Currently, I'm exploring Android Architecture Components and Kotlin Multiplatform, while also expanding my skills in backend development with Spring Boot. My focus is on creating scalable, user-friendly apps that make a real impact.<br><br>Beyond coding, I founded "The UBIT Hub", a WhatsApp community connecting UBIT students for collaboration and learning. This initiative reflects my passion for leadership, knowledge-sharing, and fostering a developer community.<br><br>💡 Always open to collaborations, discussions, and building awesome Android apps!</p>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" width="100%" style="display: block;" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true&order=2" height="140" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mahad2006&theme=dark_lover&column=-1&row=1&margin-w=14&margin-h=9&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahad2006&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+  <h1 style="font-size: 5rem; font-weight: bold; margin-bottom: 0;">SHAIKH MAHAD</h1>
 </div>
-
-###
-
-<h1 align="center">🔍 Profile Visits</h1>
-
-###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mahad2006/count.svg?"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" alt="Typing SVG" />
+  </a>
 </div>
 
-###
+<br/>
+
+<h2 align="center">About Me</h2>
+
+<p width="80%">
+I am a Software Engineering undergraduate at UBIT (University of Karachi) with a strong bias toward <b>backend systems, correctness, and performance</b>.
+<br><br>
+I enjoy working close to fundamentals — data structures, object-oriented design, and system internals — and I care deeply about <i>why</i> a system is built a certain way, not just <i>how</i> it works.
+<br><br>
+Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack Compose)</b>. Today, I am channeling that experience into <b>backend engineering with Java and Spring Boot</b>, building clean, scalable, production-grade services.
+<br><br>
+Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mentor students around structured learning and engineering discipline.
+</p>
+
+<br/>
+
+<h2 align="center">Engineering Stack</h2>
+
+<div align="center">
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++ (DSA)
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=android" width="48" height="48" alt="Android" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<h2 align="center">Technical Focus & Advanced Goals</h2>
+
+<div align="center">
+  <ul align="left" style="display: inline-block;">
+    <li><b>System Internals:</b> Deepening understanding of JVM architecture, Concurrency, and Memory Management.</li>
+    <li><b>Backend Architecture:</b> Designing scalable REST APIs with Spring Boot (Security, Validation, Caching).</li>
+    <li><b>Database Engineering:</b> Advanced PostgreSQL (Indexing, Query Optimization, and Schema Design).</li>
+    <li><b>Algorithmic Problem Solving:</b> Consistent grinding on LeetCode/CodeForces to sharpen logic.</li>
+  </ul>
+</div>
+
+<br/>
+
+<h2 align="center">Contribution Activity</h2>
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+<h2 align="center">Digital Presence</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/codewithmahad">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/mahad2006/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-1f1f1f?style=flat&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/codewithmahad/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Notes-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/mahad2006">
+    <img src="https://img.shields.io/badge/Codolio-Coding%20Profile-111111?style=flat"/>
+  </a>
+  <a href="mailto:codewithmahad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Direct%20Contact-3A3A3A?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" style="display: block;" />
