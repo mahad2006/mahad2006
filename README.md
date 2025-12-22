@@ -19,8 +19,6 @@
 </div>
 
 <br/>
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
-<br/>
 <h2 align="center">About Me</h2>
 
 <p width="80%">
@@ -33,8 +31,7 @@ Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack
 Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mentor students around structured learning and engineering discipline.
 </p>
 
-<br/>
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
+
 <br/>
 <h2 align="center">Engineering Stack</h2>
 
@@ -88,8 +85,6 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
-<br/>
 <h2 align="center">Technical Focus & Advanced Goals</h2>
 
 <div align="center">
@@ -102,8 +97,6 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
-<br/>
 <h2 align="center">Global Engineering Metrics</h2>
 <br/>
 
@@ -114,8 +107,7 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
     <img src="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
   </picture>
 </div>
-<br/>
-<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
+
 <br/>
 <h2 align="center">Digital Presence</h2>
 
