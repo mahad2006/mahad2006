@@ -135,9 +135,9 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&bg_color=ffffff&title_color=000000&text_color=4b5563&icon_color=374151&hide_border=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/solar/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/solar/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/solar/2-most-commit-language.svg" alt="Solar System Stats" height="160" />
   </picture>
 </div>
 
