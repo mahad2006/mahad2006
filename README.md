@@ -21,7 +21,6 @@
 <br/>
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
-
 <h2 align="center">About Me</h2>
 
 <p width="80%">
@@ -37,7 +36,6 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <br/>
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
-
 <h2 align="center">Engineering Stack</h2>
 
 <div align="center">
@@ -92,7 +90,6 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <br/>
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
-
 <h2 align="center">Technical Focus & Advanced Goals</h2>
 
 <div align="center">
@@ -107,9 +104,19 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <br/>
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
-
-<h2 align="center">Contribution Activity</h2>
+<h2 align="center">Global Engineering Metrics</h2>
 <br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" />
@@ -135,9 +142,16 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/mahad2006/">
+    <img src="https://leetcard.jacoblin.cool/mahad2006?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
+  </a>
+</div>
+
+<br/>
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
-
 <h2 align="center">Digital Presence</h2>
 
 <div align="center">
@@ -154,6 +168,7 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
   <a href="mailto:codewithmahad@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23252525.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=C0C0C0&height=100&section=footer&fontSize=0" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=252525&height=100&section=footer&fontSize=0" />
