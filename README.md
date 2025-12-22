@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=120&section=header&fontSize=0" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=C0C0C0&height=120&section=header&fontSize=0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=252525&height=120&section=header&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=120&section=header&fontSize=0" width="100%" />
+</picture>
 
 <div align="center">
   <h1 style="font-size: 5rem; font-weight: bold; margin-bottom: 0;">SHAIKH MAHAD</h1>
@@ -15,6 +19,8 @@
 </div>
 
 <br/>
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
+<br/>
 
 <h2 align="center">About Me</h2>
 
@@ -28,6 +34,8 @@ Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack
 Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mentor students around structured learning and engineering discipline.
 </p>
 
+<br/>
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
 
 <h2 align="center">Engineering Stack</h2>
@@ -82,6 +90,8 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
+<br/>
 
 <h2 align="center">Technical Focus & Advanced Goals</h2>
 
@@ -94,6 +104,8 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
   </ul>
 </div>
 
+<br/>
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
 
 <h2 align="center">Contribution Activity</h2>
@@ -123,6 +135,8 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
+<hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
+<br/>
 
 <h2 align="center">Digital Presence</h2>
 
@@ -146,4 +160,8 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=100&section=footer&fontSize=0" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=C0C0C0&height=100&section=footer&fontSize=0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=252525&height=100&section=footer&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=100&section=footer&fontSize=0" width="100%" />
+</picture>
