@@ -109,9 +109,9 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
   </picture>
 </div>
 
@@ -120,8 +120,8 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" />
+    <img alt="System Scanner" src="https://raw.githubusercontent.com/mahad2006/mahad2006/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -135,9 +135,9 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/solar/2-most-commit-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/solar/2-most-commit-language.svg" />
-    <img src="./profile-summary-card-output/solar/2-most-commit-language.svg" alt="Solar System Stats" height="160" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-summary-card-output/solar/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-summary-card-output/solar/2-most-commit-language.svg" />
+    <img src="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-summary-card-output/solar/2-most-commit-language.svg" alt="Solar System Stats" height="160" />
   </picture>
 </div>
 
