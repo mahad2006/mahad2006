@@ -122,15 +122,15 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=default&hide_border=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="160" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=4b5563&icon_color=374151&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" height="160" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=default&hide_border=true" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="160" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&bg_color=ffffff&title_color=000000&text_color=4b5563&icon_color=374151&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&hide_border=true" height="160" />
   </picture>
 </div>
 
@@ -138,27 +138,24 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
 
+
 <h2 align="center">Digital Presence</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/codewithmahad">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/mahad2006/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-1f1f1f?style=flat&logo=leetcode&logoColor=FFA116"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/codewithmahad/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Notes-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://codolio.com/profile/mahad2006">
-    <img src="https://img.shields.io/badge/Codolio-Coding%20Profile-111111?style=flat"/>
-  </a>
-  <a href="mailto:codewithmahad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct%20Contact-3A3A3A?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+  <a href="https://www.linkedin.com/in/codewithmahad"><img src="https://img.shields.io/badge/LinkedIn-%23252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/mahad2006/"><img src="https://img.shields.io/badge/LeetCode-%23252525.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/your_id_here"><img src="https://img.shields.io/badge/Codeforces-%23252525.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://codolio.com/profile/mahad2006"><img src="https://img.shields.io/badge/Codolio-%23252525.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/></a>
+  <a href="https://stackoverflow.com/users/your_id_here"><img src="https://img.shields.io/badge/StackOverflow-%23252525.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 
-<br/>
+  <br />
+
+  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-%23252525.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="https://monkeytype.com/profile/codewithmahad"><img src="https://img.shields.io/badge/Monkeytype-%23252525.svg?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/></a>
+  <a href="https://discord.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-%23252525.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.geeksforgeeks.org/user/codewithmahad/"><img src="https://img.shields.io/badge/GeeksforGeeks-%23252525.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="mailto:codewithmahad@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23252525.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=C0C0C0&height=100&section=footer&fontSize=0" />
