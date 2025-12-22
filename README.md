@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" width="100%" style="display: block;" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=120&section=header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" width="100%" />
+</picture>
 
 <div align="center">
   <h1 style="font-size: 5rem; font-weight: bold; margin-bottom: 0;">SHAIKH MAHAD</h1>
@@ -6,7 +10,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Founder+%40+The+UBIT+Hub" alt="Typing SVG" />
+    </picture>
   </a>
 </div>
 
@@ -105,8 +113,17 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mahad2006&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="160" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2006&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" height="160" />
+  </picture>
 </div>
 
 <br/>
@@ -133,4 +150,8 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" style="display: block;" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=100&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
+</picture>
