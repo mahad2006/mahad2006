@@ -138,21 +138,18 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #1f2933, transparent);" />
 <br/>
 
-
 <h2 align="center">Digital Presence</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/codewithmahad"><img src="https://img.shields.io/badge/LinkedIn-%23252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/mahad2006/"><img src="https://img.shields.io/badge/LeetCode-%23252525.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/your_id_here"><img src="https://img.shields.io/badge/Codeforces-%23252525.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://codolio.com/profile/mahad2006"><img src="https://img.shields.io/badge/Codolio-%23252525.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/></a>
-  <a href="https://stackoverflow.com/users/your_id_here"><img src="https://img.shields.io/badge/StackOverflow-%23252525.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://codolio.com/profile/codewithmahad"><img src="https://img.shields.io/badge/Codolio-%23252525.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/></a>
 
   <br />
 
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-%23252525.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="https://monkeytype.com/profile/codewithmahad"><img src="https://img.shields.io/badge/Monkeytype-%23252525.svg?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/></a>
-  <a href="https://discord.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-%23252525.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://monkeytype.com/profile/CodeWithMahad1"><img src="https://img.shields.io/badge/Monkeytype-%23252525.svg?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/></a>
+  <a href="https://discord.com/users/825800594782552084"><img src="https://img.shields.io/badge/Discord-%23252525.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://www.geeksforgeeks.org/user/codewithmahad/"><img src="https://img.shields.io/badge/GeeksforGeeks-%23252525.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   <a href="mailto:codewithmahad@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23252525.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
