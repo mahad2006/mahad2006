@@ -6,8 +6,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=151515&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />      
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=202020&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />     
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=151515&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=202020&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=202020&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." alt="Typing SVG" />
     </picture>
   </a>
@@ -18,11 +18,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
 </div>
-
+</br>
 <div align="center">
-  <table width="90%"> 
-    <tr>
-      <td align="left">
+  <p align = "left">
         I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a strong bias toward <b>backend systems, correctness, and performance</b>.
         <br><br>
         I enjoy working close to fundamentals — data structures, object-oriented design, and system internals — and I care deeply about <i>why</i> a system is built a certain way, not just <i>how</i> it works.
@@ -30,9 +28,7 @@
         Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack Compose)</b>. Today, I am channeling that experience into <b>backend engineering with Java and Spring Boot</b>, building clean, scalable, production-grade services.
         <br><br>
         Founder of <b>The UBIT Hub</b> — mentoring students in engineering discipline.
-      </td>
-    </tr>
-  </table>
+     </p>
 </div>
 
 <br/>
@@ -103,11 +99,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Maven-151515?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-151515?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-151515?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-252525?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-252525?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-252525?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-252525?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div>
 
 <br/>
