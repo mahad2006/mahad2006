@@ -6,9 +6,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=101010&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C0C0C0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C0C0C0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=151515&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />      
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=202020&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />     
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=202020&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." alt="Typing SVG" />
     </picture>
   </a>
 </div>
