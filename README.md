@@ -221,7 +221,6 @@
   <br>
   <a href="https://www.linkedin.com/in/codewithmahad"><img src="https://img.shields.io/badge/LinkedIn-%23252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/mahad2006/"><img src="https://img.shields.io/badge/LeetCode-%23252525.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/your_id_here"><img src="https://img.shields.io/badge/Codeforces-%23252525.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://codolio.com/profile/codewithmahad"><img src="https://img.shields.io/badge/Codolio-%23252525.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/></a>
 
   <br />
