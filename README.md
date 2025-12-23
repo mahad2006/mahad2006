@@ -1,40 +1,52 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=C0C0C0&height=120&section=header&fontSize=0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=252525&height=120&section=header&fontSize=0" />
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=120&section=header&fontSize=0" width="100%" />
-</picture>
-
 <div align="center">
-  <h1 style="font-size: 5rem; font-weight: bold; margin-bottom: 0;">SHAIKH MAHAD</h1>
+  <img src="./banner.png" width="100%" alt="Shaikh Mahad Premium Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=101010&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C0C0C0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C0C0C0&center=true&vCenter=true&width=1000&lines=Backend+Systems+Engineer+(Java+%2F+Spring+Boot);Native+Android+Developer+(Kotlin+%2F+Compose);Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
     </picture>
   </a>
 </div>
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
+</picture>
+
+<br/>
+
 <div align="center">
   <h2 style="border-bottom: none;">A B O U T &nbsp; M E</h2>
 </div>
 
-<p width="80%">
-I am a Software Engineering undergraduate at UBIT (University of Karachi) with a strong bias toward <b>backend systems, correctness, and performance</b>.
-<br><br>
-I enjoy working close to fundamentals — data structures, object-oriented design, and system internals — and I care deeply about <i>why</i> a system is built a certain way, not just <i>how</i> it works.
-<br><br>
-Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack Compose)</b>. Today, I am channeling that experience into <b>backend engineering with Java and Spring Boot</b>, building clean, scalable, production-grade services.
-<br><br>
-Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mentor students around structured learning and engineering discipline.
+<p  width="90%">
+  I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a strong bias toward <br/>
+  <b>backend systems, correctness, and performance</b>.
+  <br><br>
+  I enjoy working close to fundamentals — data structures, object-oriented design, and system internals — and I care deeply about <i>why</i> a system is built a certain way, not just <i>how</i> it works.
+  <br><br>
+  Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack Compose)</b>. Today, I am channeling that experience into <b>backend engineering with Java and Spring Boot</b>, building clean, scalable, production-grade services.
+  <br><br>
+  Founder of <b>The UBIT Hub</b> — mentoring students in engineering discipline.
 </p>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
+</picture>
 
 <br/>
+
 <h2 align="center" style="border-bottom: none;">E N G I N E E R I N G &nbsp; S T A C K</h2>
 
 <div align="center">
@@ -65,7 +77,6 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
       <br>Security
     </td>
   </tr>
-
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/kotlin/white" width="35" height="35" alt="Kotlin" />
@@ -108,6 +119,14 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
+</picture>
+
+<br/>
+
 <h2 align="center" style="border-bottom: none;">T E C H N I C A L &nbsp; F O C U S</h2>
 
 <div align="center">
@@ -132,9 +151,16 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
-<h2 align="center" style="border-bottom: none;">G L O B A L &nbsp; E N G I N E E R I N G &nbsp; M E T R I C S</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
+</picture>
+
 <br/>
 
+<h2 align="center" style="border-bottom: none;">G L O B A L &nbsp; E N G I N E E R I N G &nbsp; M E T R I C S</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
@@ -144,6 +170,15 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
+</picture>
+
+<br/>
+
 <h2 align="center" style="border-bottom: none;">D I G I T A L &nbsp; P R E S E N C E</h2>
 
 <div align="center">
@@ -161,8 +196,9 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=C0C0C0&height=100&section=footer&fontSize=0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=252525&height=100&section=footer&fontSize=0" />
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=252525&height=100&section=footer&fontSize=0" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=60&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=60&section=footer" width="100%" />
 </picture>
