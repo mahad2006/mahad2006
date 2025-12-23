@@ -167,7 +167,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000%2C100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
   </picture>
 </div>
-
+<br/>
 <div align="center">
   <table align="center" style="border: none;">
     <tr>
@@ -200,7 +200,6 @@
 </div>
 
 <div align="center">
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
