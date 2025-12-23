@@ -60,14 +60,14 @@
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openjdk/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openjdk" />
         <source media="(prefers-color-scheme: dark)" srcset="./java-white.png" />
         <img src="./java-white.png" width="75" height="75" alt="Java" />
       </picture>
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/springboot/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/springboot" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/springboot/white" />
         <img src="https://cdn.simpleicons.org/springboot/white" width="48" height="48" alt="Spring Boot" />
       </picture>
@@ -75,7 +75,7 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/white" />
         <img src="https://cdn.simpleicons.org/postgresql/white" width="48" height="48" alt="PostgreSQL" />
       </picture>
@@ -83,7 +83,7 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/redis/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/redis" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/redis/white" />
         <img src="https://cdn.simpleicons.org/redis/white" width="48" height="48" alt="Redis" />
       </picture>
@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/springsecurity/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/springsecurity" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/springsecurity/white" />
         <img src="https://cdn.simpleicons.org/springsecurity/white" width="48" height="48" alt="Security" />
       </picture>
@@ -101,7 +101,7 @@
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kotlin/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kotlin" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kotlin/white" />
         <img src="https://cdn.simpleicons.org/kotlin/white" width="35" height="35" alt="Kotlin" />
       </picture>
@@ -109,7 +109,7 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/jetpackcompose/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/jetpackcompose" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jetpackcompose/white" />
         <img src="https://cdn.simpleicons.org/jetpackcompose/white" width="48" height="48" alt="Compose" />
       </picture>
@@ -117,7 +117,7 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/docker/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/docker" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/white" />
         <img src="https://cdn.simpleicons.org/docker/white" width="48" height="48" alt="Docker" />
       </picture>
@@ -125,7 +125,7 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/white" />
         <img src="https://cdn.simpleicons.org/mysql/white" width="48" height="48" alt="MySQL" />
       </picture>
@@ -133,7 +133,7 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/cplusplus/000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/cplusplus" />
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cplusplus/white" />
         <img src="https://cdn.simpleicons.org/cplusplus/white" width="48" height="48" alt="C++" />
       </picture>
