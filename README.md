@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=A%20B%20O%20U%20T%20%20%20%20%20M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=E%20N%20G%20I%20N%20E%20E%20R%20I%20N%20G%20%20%20%20%20S%20T%20A%20C%20K&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=E%20N%20G%20I%20N%20E%20E%20R%20I%20N%20G%C2%A0%C2%A0%C2%A0S%20T%20A%20C%20K&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
 </div>
 
 <div align="center">
@@ -113,7 +113,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%20%20%20%20%20F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
 </div>
 
 <div align="center">
@@ -140,7 +140,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%20%20%20%20%20M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
 </div>
 
 <div align="center">
@@ -155,7 +155,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%20%20%20%20%20P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
 </div>
 
 <div align="center">
