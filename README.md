@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=151515&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=000000&background=F5F5F5&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=202020&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." />
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=1000&color=FFFFFF&background=202020&center=true&vCenter=true&width=800&height=70&cursor=_&lines=%3E_++Backend+Systems+Engineer;%3E_++Stack%3A+Java+%2F+Spring+Boot+%2F+PostgreSQL;%3E_++Native+Android+Developer;%3E_++Stack%3A+Kotlin+%2F+Jetpack+Compose;%3E_++Building+Scalable+Systems..." alt="Typing SVG" />
     </picture>
@@ -16,7 +16,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=A%20B%20O%20U%20T%C2%A0%C2%A0%C2%A0M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
@@ -38,7 +42,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=E%20N%20G%20I%20N%20E%20E%20R%20I%20N%20G%C2%A0%C2%A0%C2%A0S%20T%20A%20C%20K&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=E%20N%20G%20I%20N%20E%20E%20R%20I%20N%20G%C2%A0%C2%A0%C2%A0S%20T%20A%20C%20K&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=E%20N%20G%20I%20N%20E%20E%20R%20I%20N%20G%C2%A0%C2%A0%C2%A0S%20T%20A%20C%20K&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=E%20N%20G%20I%20N%20E%20E%20R%20I%20N%20G%C2%A0%C2%A0%C2%A0S%20T%20A%20C%20K&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
@@ -51,44 +59,84 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="96">
-      <img src="./java-white.png" width="75" height="75" alt="Java" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openjdk/000000" /> 
+        <source media="(prefers-color-scheme: dark)" srcset="./java-white.png" />
+        <img src="./java-white.png" width="75" height="75" alt="Java" />
+      </picture>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/springboot/white" width="48" height="48" alt="Spring Boot" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/springboot/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/springboot/white" />
+        <img src="https://cdn.simpleicons.org/springboot/white" width="48" height="48" alt="Spring Boot" />
+      </picture>
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/postgresql/white" width="48" height="48" alt="PostgreSQL" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/white" />
+        <img src="https://cdn.simpleicons.org/postgresql/white" width="48" height="48" alt="PostgreSQL" />
+      </picture>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/redis/white" width="48" height="48" alt="Redis" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/redis/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/redis/white" />
+        <img src="https://cdn.simpleicons.org/redis/white" width="48" height="48" alt="Redis" />
+      </picture>
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/springsecurity/white" width="48" height="48" alt="Security" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/springsecurity/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/springsecurity/white" />
+        <img src="https://cdn.simpleicons.org/springsecurity/white" width="48" height="48" alt="Security" />
+      </picture>
       <br>Security
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/kotlin/white" width="35" height="35" alt="Kotlin" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kotlin/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kotlin/white" />
+        <img src="https://cdn.simpleicons.org/kotlin/white" width="35" height="35" alt="Kotlin" />
+      </picture>
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/jetpackcompose/white" width="48" height="48" alt="Compose" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/jetpackcompose/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jetpackcompose/white" />
+        <img src="https://cdn.simpleicons.org/jetpackcompose/white" width="48" height="48" alt="Compose" />
+      </picture>
       <br>Compose
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/docker/white" width="48" height="48" alt="Docker" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/docker/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/white" />
+        <img src="https://cdn.simpleicons.org/docker/white" width="48" height="48" alt="Docker" />
+      </picture>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/mysql/white" width="48" height="48" alt="MySQL" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/white" />
+        <img src="https://cdn.simpleicons.org/mysql/white" width="48" height="48" alt="MySQL" />
+      </picture>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/cplusplus/white" width="48" height="48" alt="C++" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/cplusplus/000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cplusplus/white" />
+        <img src="https://cdn.simpleicons.org/cplusplus/white" width="48" height="48" alt="C++" />
+      </picture>
       <br>C++ (DSA)
     </td>
   </tr>
@@ -103,17 +151,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Maven-151515?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-151515?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-151515?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-252525?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-252525?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-252525?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-252525?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%C2%A0%C2%A0%C2%A0F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
@@ -140,7 +192,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%C2%A0%C2%A0%C2%A0M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
@@ -155,7 +211,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=000000&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%C2%A0%C2%A0%C2%A0P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
