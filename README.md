@@ -35,7 +35,12 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 
 <br/>
- <h2 align="center" style="border-bottom: none;">E N G I N E E R I N G &nbsp; S T A C K</h2>
+<h2 align="center" style="border-bottom: none;">E N G I N E E R I N G &nbsp; S T A C K</h2>
+
+<div align="center">
+  <samp style="font-size: 14px; color: #888;">C O R E &nbsp; A R C H I T E C T U R E</samp>
+</div>
+<br/>
 
 <div align="center">
 <table align="center" style="border: none;">
@@ -56,7 +61,7 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/springsecurity/white" width="48" height="48" alt="Spring Security" />
+      <img src="https://cdn.simpleicons.org/springsecurity/white" width="48" height="48" alt="Security" />
       <br>Security
     </td>
   </tr>
@@ -80,14 +85,25 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/cplusplus/white" width="48" height="48" alt="C++" />
-      <br>C++
+      <br>C++ (DSA)
     </td>
   </tr>
 </table>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Toolkit-Maven%20%7C%20Git%20%7C%20Linux%20%7C%20Postman%20%7C%20IntelliJ-101010?style=for-the-badge&logoColor=white" />
+  <samp style="font-size: 14px; color: #888;">D E V &nbsp; T O O L K I T</samp>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Maven-151515?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-151515?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-151515?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </div>
 
 <br/>
