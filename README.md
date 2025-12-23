@@ -60,7 +60,7 @@
   <tr>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/openjdk" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
         <source media="(prefers-color-scheme: dark)" srcset="./java-white.png" />
         <img src="./java-white.png" width="75" height="75" alt="Java" />
       </picture>
