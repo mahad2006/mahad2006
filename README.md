@@ -35,55 +35,59 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 
 <br/>
- <h2 align = "center" style="border-bottom: none;">E N G I N E E R I N G &nbsp; S T A C K</h2>
+ <h2 align="center" style="border-bottom: none;">E N G I N E E R I N G &nbsp; S T A C K</h2>
 
 <div align="center">
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+      <img src="./java-white.png" width="75" height="75" alt="Java" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <img src="https://cdn.simpleicons.org/springboot/white" width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://cdn.simpleicons.org/postgresql/white" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++ (DSA)
+      <img src="https://cdn.simpleicons.org/redis/white" width="48" height="48" alt="Redis" />
+      <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://cdn.simpleicons.org/springsecurity/white" width="48" height="48" alt="Spring Security" />
+      <br>Security
     </td>
   </tr>
+
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <img src="https://cdn.simpleicons.org/kotlin/white" width="35" height="35" alt="Kotlin" />
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <img src="https://cdn.simpleicons.org/jetpackcompose/white" width="48" height="48" alt="Compose" />
+      <br>Compose
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/docker/white" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+      <img src="https://cdn.simpleicons.org/mysql/white" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-      <br>IntelliJ
+      <img src="https://cdn.simpleicons.org/cplusplus/white" width="48" height="48" alt="C++" />
+      <br>C++
     </td>
   </tr>
 </table>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Toolkit-Maven%20%7C%20Git%20%7C%20Linux%20%7C%20Postman%20%7C%20IntelliJ-101010?style=for-the-badge&logoColor=white" />
 </div>
 
 <br/>
