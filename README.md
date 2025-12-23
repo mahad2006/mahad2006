@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner.png" width="100%" alt="Shaikh Mahad Premium Banner" />
 </div>
-
+<br/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
@@ -14,36 +14,22 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
-</picture>
-
-<br/>
-
 <div align="center">
   <h2 style="border-bottom: none;">A B O U T &nbsp; M E</h2>
+  <table width="90%"> 
+    <tr>
+      <td align="left">
+        I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a strong bias toward <b>backend systems, correctness, and performance</b>.
+        <br><br>
+        I enjoy working close to fundamentals — data structures, object-oriented design, and system internals — and I care deeply about <i>why</i> a system is built a certain way, not just <i>how</i> it works.
+        <br><br>
+        Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack Compose)</b>. Today, I am channeling that experience into <b>backend engineering with Java and Spring Boot</b>, building clean, scalable, production-grade services.
+        <br><br>
+        Founder of <b>The UBIT Hub</b> — mentoring students in engineering discipline.
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p  width="90%">
-  I am a Software Engineering undergraduate at <b>UBIT (University of Karachi)</b> with a strong bias toward <br/>
-  <b>backend systems, correctness, and performance</b>.
-  <br><br>
-  I enjoy working close to fundamentals — data structures, object-oriented design, and system internals — and I care deeply about <i>why</i> a system is built a certain way, not just <i>how</i> it works.
-  <br><br>
-  Earlier, I worked extensively on <b>Native Android development (Kotlin / Jetpack Compose)</b>. Today, I am channeling that experience into <b>backend engineering with Java and Spring Boot</b>, building clean, scalable, production-grade services.
-  <br><br>
-  Founder of <b>The UBIT Hub</b> — mentoring students in engineering discipline.
-</p>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
-</picture>
 
 <br/>
 
@@ -119,14 +105,6 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
-</picture>
-
-<br/>
-
 <h2 align="center" style="border-bottom: none;">T E C H N I C A L &nbsp; F O C U S</h2>
 
 <div align="center">
@@ -152,14 +130,6 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
-</picture>
-
-<br/>
-
 <h2 align="center" style="border-bottom: none;">G L O B A L &nbsp; E N G I N E E R I N G &nbsp; M E T R I C S</h2>
 <div align="center">
   <picture>
@@ -168,14 +138,6 @@
     <img src="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
   </picture>
 </div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=D0D0D0&height=2&width=100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=2&width=100%" width="100%" />
-</picture>
 
 <br/>
 
