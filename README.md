@@ -2,6 +2,7 @@
   <img src="./banner.png" width="100%" alt="Shaikh Mahad Premium Banner" />
 </div>
 <br/>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
@@ -15,7 +16,10 @@
 <br/>
 
 <div align="center">
-  <h2 style="border-bottom: none;">A B O U T &nbsp; M E</h2>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=A%20B%20O%20U%20T%20%20%20%20%20M%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+</div>
+
+<div align="center">
   <table width="90%"> 
     <tr>
       <td align="left">
@@ -33,9 +37,12 @@
 
 <br/>
 
-<h2 align="center" style="border-bottom: none;">E N G I N E E R I N G &nbsp; S T A C K</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=E%20N%20G%20I%20N%20E%20E%20R%20I%20N%20G%20%20%20%20%20S%20T%20A%20C%20K&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+</div>
 
 <div align="center">
+  <br>
   <samp style="font-size: 14px; color: #888;">C O R E &nbsp; A R C H I T E C T U R E</samp>
 </div>
 <br/>
@@ -105,7 +112,9 @@
 
 <br/>
 
-<h2 align="center" style="border-bottom: none;">T E C H N I C A L &nbsp; F O C U S</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=T%20E%20C%20H%20N%20I%20C%20A%20L%20%20%20%20%20F%20O%20C%20U%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+</div>
 
 <div align="center">
   <table align="center" style="border: none;">
@@ -130,8 +139,12 @@
 
 <br/>
 
-<h2 align="center" style="border-bottom: none;">G L O B A L &nbsp; E N G I N E E R I N G &nbsp; M E T R I C S</h2>
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=G%20L%20O%20B%20A%20L%20%20%20%20%20M%20E%20T%20R%20I%20C%20S&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+</div>
+
+<div align="center">
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahad2006/mahad2006/main/profile-3d-contrib/profile-night-green.svg" />
@@ -141,9 +154,12 @@
 
 <br/>
 
-<h2 align="center" style="border-bottom: none;">D I G I T A L &nbsp; P R E S E N C E</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:252525&height=70&section=header&text=D%20I%20G%20I%20T%20A%20L%20%20%20%20%20P%20R%20E%20S%20E%20N%20C%20E&fontSize=25&fontColor=C9C9C9&animation=fadeIn&fontAlignY=55&font=Josefin+Sans" width="100%" />
+</div>
 
 <div align="center">
+  <br>
   <a href="https://www.linkedin.com/in/codewithmahad"><img src="https://img.shields.io/badge/LinkedIn-%23252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/mahad2006/"><img src="https://img.shields.io/badge/LeetCode-%23252525.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/your_id_here"><img src="https://img.shields.io/badge/Codeforces-%23252525.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
@@ -160,7 +176,7 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=60&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=252525&height=60&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=252525&height=60&section=footer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B0B0B0&height=120&section=footer" width="100%" />
 </picture>
