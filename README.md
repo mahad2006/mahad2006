@@ -19,7 +19,9 @@
 </div>
 
 <br/>
-<h2 align="center">About Me</h2>
+<div align="center">
+  <h2 style="border-bottom: none;">A B O U T &nbsp; M E</h2>
+</div>
 
 <p width="80%">
 I am a Software Engineering undergraduate at UBIT (University of Karachi) with a strong bias toward <b>backend systems, correctness, and performance</b>.
@@ -33,7 +35,7 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 
 
 <br/>
-<h2 align="center">Engineering Stack</h2>
+ <h2 align = "center" style="border-bottom: none;">E N G I N E E R I N G &nbsp; S T A C K</h2>
 
 <div align="center">
 <table align="center" style="border: none;">
@@ -85,19 +87,32 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
-<h2 align="center">Technical Focus & Advanced Goals</h2>
+
+<h2 align="center" style="border-bottom: none;">T E C H N I C A L &nbsp; F O C U S</h2>
 
 <div align="center">
-  <ul align="left" style="display: inline-block;">
-    <li><b>System Internals:</b> Deepening understanding of JVM architecture, Concurrency, and Memory Management.</li>
-    <li><b>Backend Architecture:</b> Designing scalable REST APIs with Spring Boot (Security, Validation, Caching).</li>
-    <li><b>Database Engineering:</b> Advanced PostgreSQL (Indexing, Query Optimization, and Schema Design).</li>
-    <li><b>Algorithmic Problem Solving:</b> Consistent grinding on LeetCode/CodeForces to sharpen logic.</li>
-  </ul>
+  <table align="center" style="border: none;">
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>System Internals:</b> Deepening understanding of JVM architecture, Concurrency, and Memory Management.</td>
+    </tr>
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>Backend Architecture:</b> Designing scalable REST APIs with Spring Boot (Security, Validation, Caching).</td>
+    </tr>
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>Database Engineering:</b> Advanced PostgreSQL (Indexing, Query Optimization, and Schema Design).</td>
+    </tr>
+    <tr>
+      <td width="30">▪️</td>
+      <td><b>Algorithmic Problem Solving:</b> Consistent grinding on LeetCode/CodeForces to sharpen logic.</td>
+    </tr>
+  </table>
 </div>
 
 <br/>
-<h2 align="center">Global Engineering Metrics</h2>
+<h2 align="center" style="border-bottom: none;">G L O B A L &nbsp; E N G I N E E R I N G &nbsp; M E T R I C S</h2>
 <br/>
 
 <div align="center">
@@ -109,7 +124,7 @@ Outside of coursework, I founded <b>The UBIT Hub</b>, where I organize and mento
 </div>
 
 <br/>
-<h2 align="center">Digital Presence</h2>
+<h2 align="center" style="border-bottom: none;">D I G I T A L &nbsp; P R E S E N C E</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/codewithmahad"><img src="https://img.shields.io/badge/LinkedIn-%23252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
