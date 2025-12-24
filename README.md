@@ -125,11 +125,11 @@
     </td>
     <td align="center" width="96">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/white" />
-        <img src="https://cdn.simpleicons.org/mysql/white" width="48" height="48" alt="MySQL" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mongodb" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/white" />
+        <img src="https://cdn.simpleicons.org/mongodb/white" width="48" height="48" alt="MongoDB" />
       </picture>
-      <br>MySQL
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <picture>
