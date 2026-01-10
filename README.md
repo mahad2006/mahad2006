@@ -219,6 +219,10 @@
 
 <div align="center">
   <br>
+  <a href="https://shaikhmahad.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+  </a>
+  <br /> <br />
   <a href="https://www.linkedin.com/in/codewithmahad"><img src="https://img.shields.io/badge/LinkedIn-%23252525.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/mahad2006/"><img src="https://img.shields.io/badge/LeetCode-%23252525.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://codolio.com/profile/codewithmahad"><img src="https://img.shields.io/badge/Codolio-%23252525.svg?style=for-the-badge&logo=codolio&logoColor=white" alt="Codolio"/></a>
